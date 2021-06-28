@@ -1,6 +1,8 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=fajusto&repo=fajusto&countColorcountColor)
 
-<a href="https://fontmeme.com/fonts/money-money-font/"><img src="https://fontmeme.com/permalink/210628/759560057d4da9c6fe95ba52746747e8.png" alt="money-money-font" border="0"></a>
+<p align="center">
+   <a href="https://fontmeme.com/fonts/money-money-font/"><img src="https://fontmeme.com/permalink/210628/759560057d4da9c6fe95ba52746747e8.png" alt="money-money-  font" border="0"></a>
+</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/fabricio-justo/">
