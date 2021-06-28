@@ -1,1 +1,1 @@
-![Snake animation](https://github.com/fajusto/fajusto/blob/output/github-contribution-grid-snake.svg)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=beatriznonato&repo=beatriznonato&countColorcountColor)
