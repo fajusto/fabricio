@@ -1,1 +1,1 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=beatriznonato&repo=beatriznonato&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=fajusto&repo=fajusto&countColorcountColor)
