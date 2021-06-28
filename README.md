@@ -1,7 +1,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=fajusto&repo=fajusto&countColorcountColor)
 
 
-<img align="right" src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94cartoon%20a%20programmer%20character%20design_4041517.png" height="400" />
+<img align="right" src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94computer%20programmer%20s%20career_4590116.png" height="400" />
 
    <h1>
       <p align="center">
@@ -22,6 +22,7 @@
 <p align="center">Skills with:</p>
 
 <p align="center">
+   <img height='32' src="https://cdn.icon-icons.com/icons2/2108/PNG/512/linux_icon_130887.png">&nbsp;
   <!-- HTML Icon -->
   <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;
   <!-- CSS Icon -->
