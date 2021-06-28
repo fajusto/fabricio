@@ -10,7 +10,7 @@
    </h1>
    
 <h4 align="center"> 
-  Welcome to my profile! I'm a fullstack mobile and web developer. My favorites languages are Dart and PHP, working most the time with Frameworks like Flutter and Laravel. I'm related to use git and command line on Linux. I really enjoy coding and to learn something new everyday. 🚀
+  Welcome to my profile! I'm a fullstack mobile and web developer. My favorite languages are Dart and PHP, working most the time with Frameworks like Flutter and Laravel. I'm related to use git and command line on Linux. I really enjoy coding and to learn something new everyday. 🚀
 </h4>
 
 <p align="center">
