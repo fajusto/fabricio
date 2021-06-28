@@ -1,7 +1,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=fajusto&repo=fajusto&countColorcountColor)
 
-<!--
-<img align="right" src="https://png.pngtree.com/png-vector/20210118/ourmid/pngtree-flat-design-concept-of-programmers-at-work-mobile-app-software-development-png-image_2764955.jpg" width="260" /> -->
+
+<img align="right" src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94cartoon%20a%20programmer%20character%20design_4041517.png" height="400" />
 
    <h1>
       <p align="center">
@@ -32,6 +32,12 @@
   <img height='32' src="https://iconape.com/wp-content/files/vp/55059/png/dart.png">&nbsp;
   <img height='32' src="https://cdn.iconscout.com/icon/free/png-256/php-2752101-2284918.png">&nbsp;
   <img height='32' src="https://cdn.iconscout.com/icon/free/png-256/laravel-3629474-3031537.png">&nbsp;
+</p>
+
+<p align="center">Learning now:</p>
+
+<p align="center">
+  <img height='32' src="https://iconape.com/wp-content/files/mm/370537/svg/angular-icon-logo-icon-png-svg.png">&nbsp;
 </p>
 
 <table align="left">
