@@ -1,13 +1,13 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=fajusto&repo=fajusto&countColorcountColor)
 
+<img align="right"
+src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94computer%20programmer%20s%20career_4590116.png" height="380" />
 
-<img align="right" src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94computer%20programmer%20s%20career_4590116.png" height="400" />
-
-   <h1>
-      <p align="center">
-         <a href="https://fontmeme.com/fonts/money-money-font/"><img src="https://fontmeme.com/permalink/210628/759560057d4da9c6fe95ba52746747e8.png" alt="money-money-  font" border="0"></a>
-      </p>
-   </h1>
+<h1>
+   <p align="center">
+      <a href="https://fontmeme.com/fonts/money-money-font/"><img src="https://fontmeme.com/permalink/210628/759560057d4da9c6fe95ba52746747e8.png" alt="money-money-  font" border="0"></a>
+   </p>
+</h1>
    
 <h4 align="center"> 
   Welcome to my profile! I'm a fullstack mobile and web developer. My favorite languages are Dart and PHP, working most the time with Frameworks like Flutter and Laravel. I'm related to use git and command line on Linux. I really enjoy coding and to learn something new everyday. 🚀
