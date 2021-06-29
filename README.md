@@ -53,4 +53,4 @@ src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94com
   </row>
 </table> 
 
-![Snake animation](https://github.com/fajusto/blob/blob/master/github-user-contribution.svg)
+![Snake animation](https://github.com/fajusto/fajusto/blob/output/github-contribution-grid-snake.svg)
