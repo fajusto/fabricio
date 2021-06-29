@@ -13,6 +13,8 @@ src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94com
   Welcome to my profile! I'm a fullstack mobile and web developer. My favorite languages are Dart and PHP, working most the time with Frameworks like Flutter and Laravel. I'm related to use git and command line on Linux. I really enjoy coding and to learn something new everyday. 🚀
 </h4>
 
+##
+
 <p align="center">
    <a href="https://www.linkedin.com/in/fabricio-justo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://instagram.com/fajusto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-005dff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
