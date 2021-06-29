@@ -14,9 +14,9 @@ src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94com
 </h4>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/fabricio-justo/">
-    <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabricio-justo/">
-  </a>
+   <a href="https://www.linkedin.com/in/fabricio-justo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/fajusto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-005dff?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="mailto:fabriciosjjb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
 
 <p align="center">Skills with:</p>
