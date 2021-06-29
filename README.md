@@ -1,7 +1,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=fajusto&repo=fajusto&countColorcountColor)
 
 <img align="right"
-src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94computer%20programmer%20s%20career_4590116.png" width="45%"/>
+src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94computer%20programmer%20s%20career_4590116.png" width="47%"/>
 
 <h1>
    <p align="center">
