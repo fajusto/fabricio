@@ -33,19 +33,15 @@ src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94com
   <img align="center" alt="dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-</p>
-
-<p align="center">Learning now:</p>
-
-<p align="center">
-  <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
 
+<!--
 <table align="left">
   <row>
     <td>
-     <!-- Card -->
+     
       <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=fajusto&layout=compact&theme=gotham'>
     </td>
     <td>
@@ -53,5 +49,6 @@ src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94com
     </td>
   </row>
 </table> 
+-->
 
 ![Snake animation](https://github.com/fajusto/fajusto/blob/output/github-contribution-grid-snake.svg)
